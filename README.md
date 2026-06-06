@@ -1,19 +1,20 @@
-# Sistema CRUD - Tabla Periódica en Python
+```markdown
+# Sistema CRUD - Tabla Periodica en Python
 
-Sistema interactivo de consola para gestionar datos de elementos químicos con validación basada en catálogo oficial IUPAC.
+Sistema interactivo de consola para gestionar datos de elementos quimicos con validacion basada en catalogo oficial IUPAC.
 
 ## Objetivo
-Demostrar manejo de estructuras de datos, validación de inputs y lógica CRUD completa aplicada a datos científicos.
+Demostrar manejo de estructuras de datos, validacion de inputs y logica CRUD completa aplicada a datos cientificos.
 
-## Stack Técnico
-`Python` `Estructuras de datos` `Manejo de excepciones` `Validación` `CLI`
+## Stack Tecnico
+`Python` `Estructuras de datos` `Manejo de excepciones` `Validacion` `CLI`
 
 ## Funcionalidades
-- **Create**: Agregar elementos con validación de nombre, símbolo y número atómico únicos
+- **Create**: Agregar elementos con validacion de nombre, simbolo y numero atomico unicos
 - **Read**: Consultar elementos por nombre con formato legible
 - **Update**: [Implementable] Modificar datos existentes
-- **Delete**: Eliminar con confirmación de usuario
-- **Validación**: Previene duplicados y verifica contra catálogo IUPAC oficial
+- **Delete**: Eliminar con confirmacion de usuario
+- **Validacion**: Previene duplicados y verifica contra catalogo IUPAC oficial
 
 ## Cómo ejecutarlo
 ```bash
